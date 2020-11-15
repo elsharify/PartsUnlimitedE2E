@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 //Comment 1
+//Comment 2
 namespace PartsUnlimited.Models
 {
     public class Category
