@@ -7,7 +7,6 @@ namespace PartsUnlimited.Models
     {
         //Comment by Yasir
         //New test
-        //Three
         [Key]
         public int CartItemId { get; set; }
 
